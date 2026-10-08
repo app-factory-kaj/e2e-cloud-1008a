@@ -25,3 +25,4 @@ See [Product-wide](product-wide.md).
 - No user interface — this is an API-only service.
 - No persistence or stored data — any in-memory state is lost on restart.
 - No authentication or authorization, and no sign-in of any kind (no Thunder/SSO).
+
